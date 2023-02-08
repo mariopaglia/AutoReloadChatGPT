@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Force entry into ChatGPT if its capacity is at its limit
+// @name         Force entry into ChatGPT
 // @description  Force entry into ChatGPT if its capacity is at its limit
-// @version      0.6
+// @version      0.7
 // @author       Mario Paglia
 // @updateURL    https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
 // @downloadURL  https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
