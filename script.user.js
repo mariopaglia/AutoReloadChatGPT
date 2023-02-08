@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Force entry into ChatGPT
+// @name         Auto Reload ChatGPT
 // @description  Force entry into ChatGPT if its capacity is at its limit
-// @version      0.7
+// @version      0.8
 // @author       Mario Paglia
-// @updateURL    https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
-// @downloadURL  https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
+// @updateURL    https://github.com/mariopaglia/AutoReloadChatGPT/raw/main/script.user.js
+// @downloadURL  https://github.com/mariopaglia/AutoReloadChatGPT/raw/main/script.user.js
 // @match        https://chat.openai.com/auth/login
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chat.openai.com
 // @grant        none
