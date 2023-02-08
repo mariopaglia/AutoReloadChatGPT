@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Force enter ChatGPT if it is "capacity right now"
-// @namespace    https://github.com/mariopaglia
-// @version      0.3
-// @description  try to take over the world!
+// @name         Force entry into ChatGPT if its capacity is at its limit
+// @description  Force entry into ChatGPT if its capacity is at its limit
+// @version      0.4
 // @author       Mario Paglia
+// @namespace    https://github.com/mariopaglia
 // @updateURL    https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
 // @downloadURL  https://github.com/mariopaglia/enterforce-chatgpt/raw/main/script.user.js
 // @match        https://chat.openai.com/auth/login
