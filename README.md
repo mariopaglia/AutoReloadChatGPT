@@ -1,4 +1,4 @@
-![https://i.imgur.com/huS0qbV.png](https://i.imgur.com/huS0qbV.png)
+![https://i.imgur.com/RKzkgl1.png](https://i.imgur.com/RKzkgl1.png)
 
 # Portuguese
 
